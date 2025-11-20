@@ -1,0 +1,2 @@
+[console_scripts]
+osdag-val = osdag_validator_cli.cli:main

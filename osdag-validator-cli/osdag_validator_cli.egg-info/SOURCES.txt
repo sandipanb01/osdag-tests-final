@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+osdag_validator_cli/__init__.py
+osdag_validator_cli/_autogen_generator.py
+osdag_validator_cli/auto_cli.py
+osdag_validator_cli/cli.py
+osdag_validator_cli/cli_typer.py
+osdag_validator_cli.egg-info/PKG-INFO
+osdag_validator_cli.egg-info/SOURCES.txt
+osdag_validator_cli.egg-info/dependency_links.txt
+osdag_validator_cli.egg-info/entry_points.txt
+osdag_validator_cli.egg-info/top_level.txt
+tests/test_cli.py
+tests/test_cli_generated.py
