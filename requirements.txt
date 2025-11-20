@@ -1,0 +1,8 @@
+numpy
+pylatex
+pyyaml
+wheel
+fastapi>=0.95
+uvicorn>=0.22
+PyQt5>=5.15
+pytest>=7.0
