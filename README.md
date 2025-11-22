@@ -18,8 +18,7 @@ This repository contains:
    ```
 2. Install dev deps:
    ```powershell
-   pip install -r requirements.txt
-   # or: pip install pytest fastapi uvicorn
+   pip install pytest fastapi uvicorn
    ```
 3. Run tests:
    ```powershell
